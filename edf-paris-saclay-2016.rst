@@ -85,7 +85,6 @@ Open PSA Second Day
 
 (Marinos Panayiotou - CRA UK)
 
-Shneiderman eight golden rules of interface design
 
 10.00-10.20 Advanced ITH simulations for HRA
 --------------------------------------------
