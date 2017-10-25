@@ -4,7 +4,6 @@ Open PSA Workshop 1 - Goesgen 2007
 
 .. toctree::
     :maxdepth: 1
-    :numbered:
 
     presentations/index
     report
