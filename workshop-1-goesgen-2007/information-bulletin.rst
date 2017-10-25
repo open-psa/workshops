@@ -7,7 +7,7 @@ Hotel Information
 
 Dr. Jens Klugel has kindly contacted the Hotel Storchen for the workshop attendees. We have blocked out rooms there from June 11 to June 12th at a special (KKG) rate of 139 SF per night. The rooms will be held at this price until May 29th:
 
-.. class:: center
+.. rst-class:: centered
 
 | Best Western Hotel Storchen
 | 5012 Schönenwerd bei Aarau

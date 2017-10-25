@@ -6,7 +6,7 @@ Call for Participation
 Next Generation Probabilistic Safety Assessment
 ***********************************************
 
-.. class:: center
+.. rst-class:: centered
 
 | December 6th and 7th, 2007
 | IAEA, Vienna

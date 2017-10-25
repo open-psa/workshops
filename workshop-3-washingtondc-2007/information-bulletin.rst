@@ -15,7 +15,7 @@ If you experience problems at NEI,
 please have them contact Steve Epstein 216-798-3969.
 The address of the NEI is:
 
-.. class:: center
+.. rst-class:: centered
 
 | Nuclear Energy Institute
 | 1776 I Street NW, Suite 400

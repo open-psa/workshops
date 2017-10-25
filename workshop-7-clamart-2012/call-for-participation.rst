@@ -6,7 +6,7 @@ Call for Participation
 Next Generation PSA Software, Methods, and Model Representation Standards
 *************************************************************************
 
-.. class:: center
+.. rst-class:: centered
 
 | December 10th & 11th 2012,
 | EdF R&D Clamart Paris, FRANCE

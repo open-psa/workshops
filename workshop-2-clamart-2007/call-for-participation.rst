@@ -6,7 +6,7 @@ Call for Participation
 Technical Working Group Meeting #1: Standard Representation Format for PSA Models
 *********************************************************************************
 
-.. class:: center
+.. rst-class:: centered
 
 | July 19th, 2007
 | Electricité de France

@@ -6,7 +6,7 @@ Announcement
 Exchange Format Work Package #1: Project Group Meeting
 ******************************************************
 
-.. class:: center
+.. rst-class:: centered
 
 | October 21st, 2008
 | Dassault Systèmes

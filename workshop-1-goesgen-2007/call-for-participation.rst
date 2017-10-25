@@ -6,7 +6,7 @@ Call for Participation
 Next Generation PSA Software, Declarative Modeling, and Model Representation Standards
 **************************************************************************************
 
-.. class:: center
+.. rst-class:: centered
 
 | June 12th, 2007
 | Kernkraftwerk Gösgen-Daeniken, Switzerland
