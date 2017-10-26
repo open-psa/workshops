@@ -1,5 +1,5 @@
 #################################
-Open PSA Workshop 8 - Saclay 2007
+Open PSA Workshop 8 - Saclay 2016
 #################################
 
 .. toctree::

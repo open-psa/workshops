@@ -1,5 +1,5 @@
 ##################################
-Open PSA Workshop 7 - Clamart 2007
+Open PSA Workshop 7 - Clamart 2012
 ##################################
 
 .. toctree::
